@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://masayuri58.github.io/masayuri/</id>
     <title>同期の桜</title>
-    <updated>2021-01-25T04:06:32.495Z</updated>
+    <updated>2021-01-25T04:20:22.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://masayuri58.github.io/masayuri/"/>
     <link rel="self" href="https://masayuri58.github.io/masayuri/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://masayuri58.github.io/masayuri/images/avatar.png</logo>
     <icon>https://masayuri58.github.io/masayuri/favicon.ico</icon>
     <rights>All rights reserved 2021, 同期の桜</rights>
+    <entry>
+        <title type="html"><![CDATA[石川さゆりー演歌の花道[Live]]]></title>
+        <id>https://masayuri58.github.io/masayuri/post/sayuri-enka-no-hanamichi/</id>
+        <link href="https://masayuri58.github.io/masayuri/post/sayuri-enka-no-hanamichi/">
+        </link>
+        <updated>2021-01-25T04:14:32.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="%E6%BC%94%E6%AD%8C%E3%81%AE%E8%8A%B1%E9%81%93">@TOC</a></p>
+<h1 id="1980-1989">1980-1989</h1>
+<h3 id="19830605-泣き虫">1983/06/05    「泣き虫」</h3>
+<p>出演者：石川さゆり 三沢あけみ 黒沢年男<br>
+放送日期：2020年08月18日 ＢＳテレ東 ＢＳ演歌の花道<br>
+<strong>「やすらぎ」石川さゆり→三沢あけみ→黒沢年男</strong><br>
+「氷雨」黒沢<br>
+「二人でお酒を」三沢<br>
+<strong>「あなたのためなら」石川</strong><br>
+<strong>「居酒屋」黒沢、石川</strong><br>
+「時には娼婦のように」黒沢<br>
+「たまゆらの宿」三沢<br>
+「泣き虫じゃいけないよ」黒沢<br>
+<img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktma0NtQmpYWERnNG5PYkdaazZNbmszeFQ2N24wTTA4MGZ3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="やすらぎ" loading="lazy"><br>
+<img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktma1FScXMvT1VhQzgrdUpENHNvU01xMWF3YzRWVEMwUDJRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="あなたのためなら" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktmb2F2NmNRcDVOUHdhNWpRMVQ0MnhUR0UzWUUxUm15MDhRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="居酒屋" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktmbUtOVU9Pa1FteHhYQ0dJQXlRZmJPQ2hVQkhEQXJNMHNnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Site Map]]></title>
         <id>https://masayuri58.github.io/masayuri/post/site-map/</id>
@@ -27,7 +52,9 @@
         <link href="https://masayuri58.github.io/masayuri/post/welcome-to-tong-qi-noying/">
         </link>
         <updated>2021-01-25T03:46:12.000Z</updated>
-        <content type="html"><![CDATA[<p>This is a fan-made snapshot website for the Japanese singers, Sayuri Ishikawa and Masako Mori.</p>
+        <content type="html"><![CDATA[<p>This is a fan-made snapshot website for the Japanese singers, Sayuri Ishikawa and Masako Mori.<br>
+The website is under construction and the contents are being filled.<br>
+If you have any question, please contact me at weibo or bilibili.</p>
 ]]></content>
     </entry>
 </feed>
