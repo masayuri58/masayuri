@@ -2,11 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://masayuri58.github.io/masayuri/</id>
     <title>同期の桜</title>
-    <updated>2021-01-25T06:27:23.896Z</updated>
+    <updated>2021-01-25T06:44:43.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://masayuri58.github.io/masayuri/"/>
     <link rel="self" href="https://masayuri58.github.io/masayuri/atom.xml"/>
-    <subtitle>A fan-made snapshot website for Sayuri Ishikawa and Masako Mori.</subtitle>
+    <subtitle>A fan-made snapshot website for Sayuri Ishikawa and Masako Mori.
+</subtitle>
     <logo>https://masayuri58.github.io/masayuri/images/avatar.png</logo>
     <icon>https://masayuri58.github.io/masayuri/favicon.ico</icon>
     <rights>All rights reserved 2021, 同期の桜</rights>
@@ -63,6 +64,8 @@
 <li><a href="#199001909178-%E5%A4%A2%E3%81%B2%E3%81%A8%E5%A4%9C">1990/019/09#178    「夢ひと夜…」</a></li>
 <li><a href="#19901007182%E8%AA%B0%E3%82%82%E3%81%84%E3%81%AA%E3%81%84%E7%A7%8B">1990/10/07#182「誰もいない秋…」</a></li>
 <li><a href="#19910113189-%E6%B9%AF%E7%85%99%E3%81%AE%E6%81%8B">1991/01/13#189    「湯煙の恋」</a></li>
+<li><a href="#19910317198-%E6%81%8B%E3%82%86%E3%82%8C%E3%81%A6">1991/03/17#198    「恋ゆれて…」</a></li>
+<li><a href="#19910714207-%E5%BF%98%E5%8D%B4%E3%81%AE%E8%83%BD%E7%99%BB">1991/07/14#207    「忘却の能登」</a></li>
 </ul>
 </li>
 </ul>
@@ -324,17 +327,17 @@
 「川の流れのように」石川<br>
 「恋唄」前川<br>
 「うたかた」石川</p>
-<p>1991/03/17#198    「恋ゆれて…」</p>
-<p>出演者：石川さゆり、八代亜紀、麻生詩織</p>
-<p>「花（ブーケ）束」八代亜紀<br>
+<h3 id="19910317198-恋ゆれて">1991/03/17#198    「恋ゆれて…」</h3>
+<p>出演者：石川さゆり、八代亜紀、麻生詩織<br>
+「花（ブーケ）束」八代亜紀<br>
 「爪」石川さゆり<br>
 「手紙」麻生詩織<br>
 「花水仙」八代<br>
 「恋唄綴り」麻生<br>
 「風の盆恋歌」石川<br>
 「越前竹舞い」石川<br>
-「カクテル」八代</p>
-<p>1991/07/14#207    「忘却の能登」</p>
+「カクテル」八</p>
+<h3 id="19910714207-忘却の能登">1991/07/14#207    「忘却の能登」</h3>
 <p>出演者：石川さゆり、坂本冬美、新沼謙治</p>
 <p>「風の盆恋歌」石川さゆり<br>
 「旅の章」新沼謙治<br>
