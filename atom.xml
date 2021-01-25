@@ -1,22 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://masayuri58.github.io/masayuri/</id>
-    <title>Gridea</title>
-    <updated>2021-01-25T03:53:21.986Z</updated>
+    <title>同期の桜</title>
+    <updated>2021-01-25T04:05:45.271Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://masayuri58.github.io/masayuri/"/>
     <link rel="self" href="https://masayuri58.github.io/masayuri/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>A fan-made snapshot website for Sayuri Ishikawa and Masako Mori.</subtitle>
     <logo>https://masayuri58.github.io/masayuri/images/avatar.png</logo>
     <icon>https://masayuri58.github.io/masayuri/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, 同期の桜</rights>
+    <entry>
+        <title type="html"><![CDATA[Site Map]]></title>
+        <id>https://masayuri58.github.io/masayuri/post/site-map/</id>
+        <link href="https://masayuri58.github.io/masayuri/post/site-map/">
+        </link>
+        <updated>2021-01-25T04:03:36.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="石川さゆり">石川さゆり</h1>
+<h2 id=""></h2>
+<h1 id="森昌子">森昌子</h1>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to 同期の桜]]></title>
         <id>https://masayuri58.github.io/masayuri/post/welcome-to-tong-qi-noying/</id>
         <link href="https://masayuri58.github.io/masayuri/post/welcome-to-tong-qi-noying/">
         </link>
         <updated>2021-01-25T03:46:12.000Z</updated>
-        <content type="html"><![CDATA[<p>This is a fans-made snapshot website for the Japanese singers, Sayuri Ishikawa and Masako Mori.</p>
+        <content type="html"><![CDATA[<p>This is a fan-made snapshot website for the Japanese singers, Sayuri Ishikawa and Masako Mori.</p>
 ]]></content>
     </entry>
 </feed>
