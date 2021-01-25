@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://masayuri58.github.io/masayuri/</id>
     <title>同期の桜</title>
-    <updated>2021-01-25T04:22:10.427Z</updated>
+    <updated>2021-01-25T06:02:04.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://masayuri58.github.io/masayuri/"/>
     <link rel="self" href="https://masayuri58.github.io/masayuri/atom.xml"/>
@@ -16,8 +16,61 @@
         <link href="https://masayuri58.github.io/masayuri/post/sayuri-enka-no-hanamichi/">
         </link>
         <updated>2021-01-25T04:14:32.000Z</updated>
-        <content type="html"><![CDATA[<p><a href="%E6%BC%94%E6%AD%8C%E3%81%AE%E8%8A%B1%E9%81%93">TOC</a></p>
+        <content type="html"><![CDATA[<p><ul class="markdownIt-TOC">
+<li><a href="#1980-1989">1980-1989</a>
+<ul>
+<li><a href="#1983">1983</a>
+<ul>
+<li><a href="#19830605-%E6%B3%A3%E3%81%8D%E8%99%AB">1983/06/05    「泣き虫」</a></li>
+</ul>
+</li>
+<li><a href="#1985">1985</a>
+<ul>
+<li><a href="#19851215-%E9%9F%BF%E3%81%91%E8%88%B9%E6%AD%8C">1985/12/15    「響け船歌」</a></li>
+</ul>
+</li>
+<li><a href="#1986">1986</a></li>
+<li><a href="#1987">1987</a></li>
+<li><a href="#1988">1988</a>
+<ul>
+<li><a href="#1988011079-%E3%81%95%E3%81%84%E3%81%AF%E3%81%A6%E6%B8%AF">1988/01/10#79    「さいはて港」</a></li>
+<li><a href="#1988020783-%E3%81%8A%E3%82%82%E3%81%84%E3%81%A7%E6%B5%B7%E5%B3%A1%E9%9B%AA%E6%99%AF%E8%89%B2">1988/02/07#83    「おもいで海峡雪景色」</a></li>
+<li><a href="#19880327-90-%E6%A1%9C%E5%90%B9%E9%9B%AA">1988/03/27 #90  「桜吹雪」※</a></li>
+<li><a href="#1988050195-%E5%A4%AB%E5%A9%A6%E3%81%B5%E3%81%9F%E3%82%8A%E6%97%85">1988/05/01#95    「夫婦・・・ふたり旅」※</a></li>
+<li><a href="#19880731104-%E3%81%86%E3%81%8D%E8%8D%89">1988/07/31#104    「うき草」</a></li>
+<li><a href="#19880904109-%E5%B3%A0%E7%A7%8B%E9%A2%A8%E6%97%85%E3%81%AE%E7%A9%BA">1988/09/04#109    「峠・秋風旅の空・・・」</a></li>
+<li><a href="#19881016115-%E5%A4%A2%E5%B9%BB">1988/10/16#115    「夢幻」</a></li>
+</ul>
+</li>
+<li><a href="#1989">1989</a>
+<ul>
+<li><a href="#19890122121-%E9%9B%AA%E6%B3%A2%E6%AD%A2%E5%A0%B4">1989/01/22#121    「雪波止場」</a></li>
+<li><a href="#19890226126-%E3%81%AA%E3%81%94%E3%82%8A%E9%9B%AA%E3%81%8A%E3%82%93%E3%81%AA%E5%BF%83">1989/02/26#126    「なごり雪おんな心」</a></li>
+<li><a href="#19890528133-%E3%81%82%E3%81%98%E3%81%95%E3%81%84%E5%B2%AC">1989/05/28#133    「あじさい岬」 ※</a></li>
+<li><a href="#19890903140-%E5%B9%BB%E9%A2%A8%E3%81%AE%E7%9B%86">1989/09/03#140    「幻・風の盆」</a></li>
+<li><a href="#19891022145-%E6%83%85%E5%BF%B5%E3%81%8A%E3%82%82%E3%81%84">1989/10/22#145    「情念（おもい）・・・」</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#1990-1999">1990-1999</a>
+<ul>
+<li><a href="#1990">1990</a>
+<ul>
+<li><a href="#19900121154-%E6%81%8B%E5%A5%B3">1990/01/21#154    「恋女・・・」</a></li>
+<li><a href="#19900422163-%E8%BF%B7%E3%81%84%E6%81%8B-%E5%A4%A2%E3%81%8A%E3%82%93%E3%81%AA">1990/04/22#163    「迷い恋　夢おんな」</a></li>
+<li><a href="#19900701171-%E8%BF%B7%E3%81%84%E9%A2%A8">1990/07/01#171    「迷い風…」</a></li>
+<li><a href="#199001909178-%E5%A4%A2%E3%81%B2%E3%81%A8%E5%A4%9C">1990/019/09#178    「夢ひと夜…」</a></li>
+<li><a href="#19901007182%E8%AA%B0%E3%82%82%E3%81%84%E3%81%AA%E3%81%84%E7%A7%8B">1990/10/07#182「誰もいない秋…」</a></li>
+<li><a href="#19910113189-%E6%B9%AF%E7%85%99%E3%81%AE%E6%81%8B">1991/01/13#189    「湯煙の恋」</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</p>
 <h1 id="1980-1989">1980-1989</h1>
+<h2 id="1983">1983</h2>
 <h3 id="19830605-泣き虫">1983/06/05    「泣き虫」</h3>
 <p>出演者：石川さゆり 三沢あけみ 黒沢年男<br>
 放送日期：2020年08月18日 ＢＳテレ東 ＢＳ演歌の花道<br>
@@ -32,7 +85,350 @@
 <img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktma0NtQmpYWERnNG5PYkdaazZNbmszeFQ2N24wTTA4MGZ3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="やすらぎ" loading="lazy"><br>
 <img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktma1FScXMvT1VhQzgrdUpENHNvU01xMWF3YzRWVEMwUDJRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="あなたのためなら" loading="lazy"><br>
 <img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktmb2F2NmNRcDVOUHdhNWpRMVQ0MnhUR0UzWUUxUm15MDhRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="居酒屋" loading="lazy"><br>
-<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktmbUtOVU9Pa1FteHhYQ0dJQXlRZmJPQ2hVQkhEQXJNMHNnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="" loading="lazy"></p>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktmbUtOVU9Pa1FteHhYQ0dJQXlRZmJPQ2hVQkhEQXJNMHNnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="过场" loading="lazy"></p>
+<h2 id="1985">1985</h2>
+<h3 id="19851215-響け船歌">1985/12/15    「響け船歌」</h3>
+<p>出演者：石川さゆり、山川豊、渥美二郎<br>
+「男船」山川豊<br>
+「命船」渥美二郎<br>
+<strong>「祝い船」石川さゆり</strong><br>
+<strong>「波止場しぐれ」石川</strong><br>
+「函館本線」山川<br>
+「夢追い酒」渥美<br>
+<strong>「浮草ぐらし」石川</strong><br>
+「流氷子守歌」山川<br>
+「おまえとしあわせに」渥美<br>
+<strong>「津軽海峡・冬景色」石川</strong><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktmcHpJSUJsaFdCTEZCb200TjhVYlBQOWxWbkM2elVBSGZBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="祝い船" loading="lazy"><br>
+<img src="https://imglf5.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktmc3BPREt2Y0hUUHQ5MHlvNklYcWlvNG1hbFh1dXgwbkJnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="波止場しぐれ" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktmdk1lMndacGhScUJEK0Y1SUgwa1o1MmZWd243Nk5RbURBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="过场" loading="lazy"><br>
+<img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXpZczdDR0VrMktmbjk3YkRUdzEvZlB2Qm83MVUwYkZ3ZWorbFVwdDF4L3F3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="津軽海峡・冬景色" loading="lazy"></p>
+<h2 id="1986">1986</h2>
+<h2 id="1987">1987</h2>
+<h2 id="1988">1988</h2>
+<h3 id="1988011079-さいはて港">1988/01/10#79    「さいはて港」</h3>
+<p>出演者：石川さゆり、森進一、冠二郎<br>
+<strong>「雪國」石川さゆり→森進一</strong><br>
+<strong>「涙の連絡船」石川</strong><br>
+<strong>「津軽海峡冬景色」石川</strong><br>
+「さざんかの宿」冠二郎<br>
+「さざんか」森<br>
+「北海あばれ節」冠<br>
+「おふくろさん」森<br>
+<strong>「夫婦善哉」石川</strong><br>
+「悲しいけれど」森</p>
+<h3 id="1988020783-おもいで海峡雪景色">1988/02/07#83    「おもいで海峡雪景色」</h3>
+<p>出演者：石川さゆり、北島三郎、新沼謙治<br>
+<strong>「波止場しぐれ」石川さゆり</strong><br>
+「北の漁場」北島三郎<br>
+「海峡」新沼謙治<br>
+<strong>「哀しみ本線日本海」石川</strong><br>
+「日本海」北島<br>
+「津軽恋女」新沼<br>
+<strong>「津軽海峡冬景色」石川</strong><br>
+「帰ろかな」北島<br>
+<strong>「さよならの翼」石川</strong><br>
+「川」北島</p>
+<h3 id="19880327-90-桜吹雪">1988/03/27 #90  「桜吹雪」※</h3>
+<p>出演者：石川さゆり、川中美幸、大月みやこ<br>
+<strong>「女ひとり」川中美幸→石川さゆり→大月みやこ</strong><br>
+<strong>「天城越え」石川</strong><br>
+「かくれ宿」大月<br>
+「あばれ太鼓」坂本冬美<br>
+「豊後水道」川中<br>
+<strong>「さよならの翼」石川</strong><br>
+「乱れ花」大月</p>
+<h3 id="1988050195-夫婦ふたり旅">1988/05/01#95    「夫婦・・・ふたり旅」※</h3>
+<p>出演者：石川さゆり、村田英雄、三船和子</p>
+<p>###1988/06/26#100    「ゆめ海峡」<br>
+出演者：石川さゆり、川中美幸、内藤やす子<br>
+<strong>「海峡」川中美幸→石川さゆり</strong><br>
+<strong>「波止場しぐれ」石川</strong><br>
+「想い出ぼろぼろ」内藤やす子<br>
+「越前岬」川中<br>
+「鳳仙情歌」内藤<br>
+<strong>「港町十三番地」川中→内藤→石川</strong><br>
+「豊後水道」川中<br>
+<strong>「滝の白糸」石川</strong><br>
+<img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoK2F5RmhRN2xKTTM4MEhKWnhRVkNKajZFOU5WSWVBY0RRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="海峡" loading="lazy"><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoMGdPQlFvTGgrL0NnL25HVFRNaE5YOGRFZlZJY0wxRHNBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="波止場しぐれ" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoNWlvaXBiWXhMWVRUbDMvSEorQ2w0UzI0ejQvbjRFeWdRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="港町十三番地" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoOC9KUzdpQ2xmQ0tSYWRMaElOUU1zb0d1OHA4RjA3VnF3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="过场" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoMHF3eTh6L28rWERhQUYrM1ROYVdMNkxqaUhOR0JuSCtRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="滝の白糸" loading="lazy"></p>
+<h3 id="19880731104-うき草">1988/07/31#104    「うき草」</h3>
+<p>出演者：石川さゆり、金田たつえ、日野美歌<br>
+<strong>「夫婦善哉」石川さゆり</strong><br>
+「おまえさん」金田たつえ<br>
+「氷雨」日野美歌<br>
+「しのび恋」金田<br>
+<strong>「命くれない」石川</strong><br>
+「お酒ください」日野<br>
+<strong>「大阪つばめ」石川</strong><br>
+「夢花火」金田<br>
+<strong>「滝の白糸」石川</strong></p>
+<h3 id="19880904109-峠秋風旅の空">1988/09/04#109    「峠・秋風旅の空・・・」</h3>
+<p>出演者：石川さゆり、坂本冬美、尾形大作<br>
+<strong>「天城越え」石川さゆり</strong><br>
+「無錫旅情」尾形大作<br>
+「あばれ太鼓」坂本冬美<br>
+「祝い酒」坂本<br>
+<strong>「夫婦善哉」石川</strong><br>
+<strong>「人生の並木路」尾形→坂本→石川</strong><br>
+「いやんなっちゃうなァ」尾形大作<br>
+<strong>「滝の白糸」石川</strong><br>
+<img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoLzJFY0FuWnZFU3dDUi9BaGZHM05pUWVaK0UrOUNBOUtRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="天城越え" loading="lazy"><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoMmVJcXZjK2lTeUlic1JUWmQvOFVtQTJMeW94b0p3UVpnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="夫婦善哉" loading="lazy"><br>
+<img src="https://imglf5.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoL2YzakNnTUd4SXg4Z1dzRUovUFc1QVlFaGMwd0hvU1RRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="人生の並木路" loading="lazy"><br>
+<img src="https://imglf5.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoM2FRbTR6QU1EanJXNmVkTFFxYmdPVEZwbFNneVBTczlnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="滝の白糸" loading="lazy"></p>
+<h3 id="19881016115-夢幻">1988/10/16#115    「夢幻」</h3>
+<p>出演者：石川さゆり、細川たかし、三沢あけみ<br>
+「想いで迷子」三沢あけみ→細川たかし<br>
+<strong>「津軽海峡・冬景色」石川さゆり</strong><br>
+「渡り鳥」三沢<br>
+<strong>「夢一夜」石川</strong><br>
+「望郷じょんから」細川<br>
+「北国恋歌」三沢<br>
+<strong>「滝の白糸」石川</strong><br>
+「北緯五十度」細川<br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoK0txYUdPZldUdjhMN1lYejgxaU1kM1BWd1EvUVNhTEpnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="津軽海峡・冬景色" loading="lazy"><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoNlp0QlRRMG9rYWhOUHNGenBlM3dQQzAyeUJwVU5Zc0dnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="夢一夜" loading="lazy"><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoekJ2Yy9UYVA5eWcrZjRVMkRqT0NUbXJtYUJCV2pZRmNRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="过场" loading="lazy"><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoeWs1ME4wV1RtSThZS0d6aWI3S1Y0MGV4alVVV0xieUxRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="滝の白糸" loading="lazy"></p>
+<h2 id="1989">1989</h2>
+<h3 id="19890122121-雪波止場">1989/01/22#121    「雪波止場」</h3>
+<p>出演者：石川さゆり、北島三郎、ミン・ヘイキョン<br>
+「北の漁場」北島三郎<br>
+「別離」ミン・ヘイキョン<br>
+<strong>「津軽海峡・冬景色」石川さゆり</strong><br>
+「恋人よ」ヘイキョン<br>
+<strong>「シクラメンのかほり」石川</strong><br>
+「函館の女」北島<br>
+<strong>「滝の白糸」石川</strong><br>
+「年輪」北島<br>
+![津軽海峡・冬景色]https://imglf6.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoK0YyejNDempTTEpxY2VWakFiRW50MGNHaU1GaURxMDdBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2<br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoNUllSTZUWmUrTUJrMi80ZE9XNkJjRGtVV2d4b0cxblhBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="シクラメンのかほり" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoL1pDL2hmQkVJQUkxS3ZlQ2ZydXppKzdTcjdQRC9udzB3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="滝の白糸" loading="lazy"></p>
+<h3 id="19890226126-なごり雪おんな心">1989/02/26#126    「なごり雪おんな心」</h3>
+<p>出演者：石川さゆり、大月みやこ、三船和子<br>
+<strong>「波止場しぐれ」石川さゆり</strong><br>
+「女の駅」大月みやこ<br>
+<strong>「女の港」石川→大月</strong><br>
+<strong>「天城越え」大月→石川</strong><br>
+「だんな様」三船和子<br>
+「命のきずな」三船<br>
+<strong>「滝の白糸」石川</strong><br>
+「乱れ花」大月</p>
+<h3 id="19890528133-あじさい岬">1989/05/28#133    「あじさい岬」 ※</h3>
+<p>出演者：石川さゆり、川中美幸、君夕子</p>
+<p>「滝の白糸」石川さゆり<br>
+「越前岬」川中美幸<br>
+「浮草情話」君夕子<br>
+「別離」石川<br>
+「日本海おけさ」君<br>
+「女 泣き砂 日本海」川中<br>
+「御身」君<br>
+「天城越え」石川</p>
+<h3 id="19890903140-幻風の盆">1989/09/03#140    「幻・風の盆」</h3>
+<p>出演者：石川さゆり、前川清、マルシア<br>
+<strong>「秋冬」石川さゆり→前川清</strong><br>
+<strong>「風の盆恋歌」石川</strong><br>
+「季節の中で」前川<br>
+「ふりむけばヨコハマ」マルシア<br>
+「逢わずに愛して」前川<br>
+<strong>「風の盆恋歌」石川</strong><br>
+<strong>「津軽海峡・冬景色」石川</strong><br>
+「愛がほしい」前川<br>
+<img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoOG80cEYrcDlUdmtwNENvUGU0UmpsbG1rVi9rRlo2MGdBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="秋冬" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoOFUzZllCZGo4U2RlUXNhNGU3cEJRVy9KeVg5TURRYzZnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="風の盆恋歌" loading="lazy"><br>
+<img src="https://imglf5.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoNUhRWXhTQjhtdmZCa1NDcldweVluZ0NDUWovcWFuaXVnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="風の盆恋歌" loading="lazy"><br>
+<img src="https://imglf5.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZod3hnRGlyM2VTMUxTZVdxT1hxNGdTT05EMmJOeE5oYmNBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="津軽海峡・冬景色" loading="lazy"></p>
+<h3 id="19891022145-情念おもい">1989/10/22#145    「情念（おもい）・・・」</h3>
+<p>出演者：石川さゆり、伍代夏子、角川博<br>
+<strong>「おんなの宿」角川博→石川さゆり</strong><br>
+「伊豆の雨」伍代夏子→角川<br>
+<strong>「愛傷歌」石川</strong><br>
+「水なし川」伍代<br>
+<strong>「天城越え」石川</strong><br>
+「雨の赤坂」角川<br>
+<strong>「風の盆恋歌」石川</strong><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoNVFnLy9vNTdZb2lrSUwrU25lWHRkQ2ZWb3Y0a2cxcDZRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="おんなの宿" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoNXhHb1Jvb3diSzhVWVlLZ2JoaFlSRVJLUmdzeS9WdHd3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="愛傷歌" loading="lazy"><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoeVZmUjdBNU5IWkk5OVZsTUFNQm9hdUtlNGJMV2M3VDRBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="天城越え" loading="lazy"><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXlDTTlRK01HOEZoeURGekVGMlAwMFl5Y1NHbloveVBUVHlpSERuR09QcUF3PT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="風の盆恋歌" loading="lazy"></p>
+<h1 id="1990-1999">1990-1999</h1>
+<h2 id="1990">1990</h2>
+<h3 id="19900121154-恋女">1990/01/21#154    「恋女・・・」</h3>
+<p>出演者：石川さゆり、大月みやこ、牧村三枝子<br>
+「女の港」大月みやこ<br>
+<strong>「冬の旅」石川さゆり</strong><br>
+「日本海」牧村三枝子<br>
+「哀しみ本線日本海」大月<br>
+<strong>「能登半島」石川</strong><br>
+「友禅流し」牧村<br>
+「命の花」大月<br>
+<strong>「風の盆恋歌」石川</strong><br>
+<img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXk3MXBvelhpM3FldUNVbkdRd0RsSWQyOUNTcUNDUVNQSUNZOU1hMkRPampBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="冬の旅" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXk3MXBvelhpM3FlZ2tEMGNVMTczZ1UwdmNxMHlHY3NPZ29MOUh6bVp1dmhnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="能登半島" loading="lazy"><br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXk3MXBvelhpM3Flam1FVmRjdmVwUnRSVlI4OFFwU3FGNVlUOGUzdWcxcWlRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="風の盆恋歌" loading="lazy"></p>
+<h3 id="19900422163-迷い恋-夢おんな">1990/04/22#163    「迷い恋　夢おんな」</h3>
+<p>出演者：石川さゆり、藤あや子、森進一<br>
+「京都去りがたし」森進一<br>
+<strong>「ゆうすげの恋」石川さゆり</strong><br>
+「おんな」藤あや子<br>
+「命あたえて」森<br>
+<strong>「天城越え」石川</strong><br>
+<strong>「恋は天下のまわえいもの」石川</strong><br>
+「移り香」森<br>
+<img src="https://imglf6.lf127.net/img/WHdjb1RzaE12TXk3MXBvelhpM3FlZ0c4ei9LQWpFWnRXOVl6Yy81TE94RFpJQmZEc2FWbmNRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="ゆうすげの恋" loading="lazy"><br>
+<img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXk3MXBvelhpM3Flbm94NmlibjBRVldlV05MZFJsRnJXYURHQ0gyTHcwbXJBPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="天城越え" loading="lazy"><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXk3MXBvelhpM3FldFA2L2RXYnBMSGFITDFPejV6VHh5NmtmRHBzcmRTempnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="恋は天下のまわえいもの" loading="lazy"></p>
+<h3 id="19900701171-迷い風">1990/07/01#171    「迷い風…」</h3>
+<p>出演者：石川さゆり、藤あや子、森進一<br>
+<strong>「時の流れに身をまかせ」石川さゆり</strong><br>
+「旅の章」新沼謙治<br>
+「抱きしめて」マルシア<br>
+「済州エア・ポート」半田浩二<br>
+「かもめはかもめ」マルシア<br>
+<strong>「波止場しぐれ」石川</strong><br>
+「渋谷ものがたり」新沼<br>
+<strong>「恋は天下のまわりもの」石川</strong><br>
+<img src="https://imglf4.lf127.net/img/WHdjb1RzaE12TXk3MXBvelhpM3FldUpvLzZVbS84UjlTcVlWZTVKWENDbDZTZS9CWVFZRjFnPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="時の流れに身をまかせ" loading="lazy"><br>
+<img src="https://imglf5.lf127.net/img/WHdjb1RzaE12TXk3MXBvelhpM3FlbFFsSmpRbTAyMHBhU2loWjZtV29ZMGFDV3RCd3ZpOThnPT0.png?=im9ageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="波止場しぐれ" loading="lazy"><br>
+<img src="https://imglf3.lf127.net/img/WHdjb1RzaE12TXk3MXBvelhpM3FlbnJNZEZqSk9FdU95eFpkMy9hK3ZzSWJCcHh3b2hCampRPT0.png?=imageView&amp;thumbnail=500x0&amp;quality=96&amp;stripmeta=0&amp;type=jpg%7Cwatermark&amp;type=2" alt="恋は天下のまわえいもの" loading="lazy"></p>
+<h3 id="199001909178-夢ひと夜">1990/019/09#178    「夢ひと夜…」</h3>
+<p>出演者：石川さゆり、森進一、山川豊<br>
+「夢芝居」森進一→石川さゆり<br>
+「それは恋」森<br>
+「しぐれ川」山川豊<br>
+「夫婦善哉」石川<br>
+「人を恋うる唄」山川→森<br>
+「恋は天下のまわりもの」石川<br>
+「風のエレジー」森</p>
+<h3 id="19901007182誰もいない秋">1990/10/07#182「誰もいない秋…」</h3>
+<p>出演者：石川さゆり、吉幾三、麻生詩織<br>
+「酒と泪と男と女」吉幾三→石川さゆり<br>
+「酔歌」吉<br>
+「恋」石川<br>
+「恋唄綴り」麻生詩織<br>
+「誰もいない海」石川<br>
+「海峡」吉<br>
+「津軽海峡冬景色」石川<br>
+「うたかた」石川</p>
+<h3 id="19910113189-湯煙の恋">1991/01/13#189    「湯煙の恋」</h3>
+<p>出演者：石川さゆり、前川清、滝里美<br>
+「天城越え」石川さゆり<br>
+「想いで迷子2」前川清<br>
+「おんなの宿」滝里美<br>
+「いでゆ橋」滝<br>
+「ふれあい」前川<br>
+「川の流れのように」石川<br>
+「恋唄」前川<br>
+「うたかた」石川</p>
+<p>1991/03/17#198    「恋ゆれて…」</p>
+<p>出演者：石川さゆり、八代亜紀、麻生詩織</p>
+<p>「花（ブーケ）束」八代亜紀<br>
+「爪」石川さゆり<br>
+「手紙」麻生詩織<br>
+「花水仙」八代<br>
+「恋唄綴り」麻生<br>
+「風の盆恋歌」石川<br>
+「越前竹舞い」石川<br>
+「カクテル」八代</p>
+<p>1991/07/14#207    「忘却の能登」</p>
+<p>出演者：石川さゆり、坂本冬美、新沼謙治</p>
+<p>「風の盆恋歌」石川さゆり<br>
+「旅の章」新沼謙治<br>
+「浜千鳥」石川<br>
+「能登はいらんかいね」坂本冬美<br>
+「能登半島」石川<br>
+「北を恋うる歌」新沼<br>
+「火の国の女」坂本<br>
+「越前竹舞い」石川</p>
+<p>1991/09/29#215    「浮草…」</p>
+<p>出演者：石川さゆり、川中美幸、香西かおり</p>
+<p>「波止場しぐれ」石川さゆり<br>
+「ふたり酒」川中美幸<br>
+「流恋草」香西かおり<br>
+「夫婦善哉」石川<br>
+「浮草ぐらし」香西<br>
+「大勝負」原田ゆかり<br>
+「あなたひとすじ」川中<br>
+「炎情歌」川中<br>
+「恋のためなら」石川</p>
+<p>1992/02/23#226    「幼き春の日々…」</p>
+<p>出演者：石川さゆり、堀内孝雄</p>
+<p>「恋唄綴り」石川さゆり→堀内孝雄<br>
+「ウイスキーがお好きでしょ」石川<br>
+「酔歌」堀内<br>
+「ゴンドラの唄」石川<br>
+「遠き日の少年」堀内<br>
+「恋文」堀内<br>
+「港唄」石川</p>
+<p>1992/09/06#241    「刻の流れ…」</p>
+<p>出演者：石川さゆり、吉幾三、渥美二郎</p>
+<p>「津軽海峡冬景色」石川さゆり<br>
+「津軽平野」吉幾三<br>
+「夢追い酒」渥美二郎<br>
+「酒よ」吉<br>
+「波止場しぐれ」石川<br>
+「ふたりの明日」渥美<br>
+「風の盆恋歌」石川<br>
+「雪國」吉<br>
+「夜更けのメロディー」吉<br>
+「ホテル港や」石川</p>
+<p>1992/12/06#246    「夢に濡れ」</p>
+<p>出演者：石川さゆり、伍代夏子、中条きよし</p>
+<p>「津軽海峡・冬景色」石川さゆり<br>
+「銀座の恋の物語」中条きよし、伍代夏子<br>
+「うそ」中条<br>
+「ウイスキーが、お好きでしょ」石川<br>
+「雨の慕情」伍代<br>
+「夢さぐり愛さぐり」中条<br>
+「雪中花」伍代<br>
+「ホテル港や」石川</p>
+<p>1993/05/23#261    「浪花の夢ごころ」</p>
+<p>出演者：石川さゆり、中村美律子、永井みゆき</p>
+<p>「大阪しぐれ」石川さゆり→中村美律子<br>
+「大阪ラプソディー」永井みゆき<br>
+「夫婦善哉」石川<br>
+「大阪情話」中村<br>
+「大阪すずめ」永井<br>
+「大阪つばめ」石川<br>
+「袖摺坂」中村<br>
+「合縁坂」石川</p>
+<p>1993/10/31#275    「恋のカケラ…」（愛知厚生年金会館）</p>
+<p>出演者：石川さゆり、八代亜紀、伍代夏子、山本譲二、前川清、高山厳</p>
+<p>「居酒屋」前川清、伍代夏子<br>
+「心凍らせて」高山厳<br>
+「雨の慕情」八代亜紀<br>
+「恋唄綴り」山本譲二<br>
+「恋挽歌」伍代<br>
+「つぐない」石川さゆり<br>
+「男と女の破片」前川<br>
+「夢想人」山本<br>
+「カラス」八代</p>
+<p>1993/11/07#276    「海峡ひとり…」（愛知厚生年金会館）</p>
+<p>出演者：石川さゆり、八代亜紀、伍代夏子、山本譲二、前川清、高山厳、大石円</p>
+<p>「波止場しぐれ」石川さゆり<br>
+「もう一度逢いたい」八代亜紀<br>
+「恋ざんげ」伍代夏子<br>
+「旅の終りはお前」山本譲二<br>
+「おんな船」大石円<br>
+「海峡」高山厳<br>
+「津軽海峡・冬景色」石川<br>
+「舟唄」八代<br>
+「純・情歌」石川<br>
+「別れ曲でも唄って」前川清</p>
+<p>1993/12/05#280    「夢空港」</p>
+<p>出演者：石川さゆり、五木ひろし、マルシア</p>
+<p>「今夜は離さない」五木ひろし、石川さゆり<br>
+「空港」マルシア<br>
+「春夏秋秋」石川<br>
+「夜空」五木<br>
+「陽だまり」マルシア<br>
+「そして・・・めぐり逢い」五木<br>
+「純・情歌」石川<br>
+「べにばな」五木</p>
 ]]></content>
     </entry>
     <entry>
