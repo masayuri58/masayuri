@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://masayuri58.github.io/masayuri/</id>
     <title>同期の桜</title>
-    <updated>2021-01-27T04:49:40.914Z</updated>
+    <updated>2021-01-27T09:37:09.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://masayuri58.github.io/masayuri/"/>
     <link rel="self" href="https://masayuri58.github.io/masayuri/atom.xml"/>
@@ -137,18 +137,26 @@
 </table>
 <h1 id="tv">TV</h1>
 <h2 id="songs">SONGS</h2>
-<p>2021-01-23<br>
-<img src="https://i.loli.net/2021/01/27/brYFZHc6tEDX9dR.png" alt="" loading="lazy"></p>
+<h3 id="2021-01-23">2021-01-23</h3>
+<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/01/27/brYFZHc6tEDX9dR.png" alt="" loading="lazy"></figure>
 <h1 id="live">LIVE</h1>
 <h2 id="うたコン">うたコン</h2>
 <h3 id="2021-01-19">2021-01-19</h3>
 <p><img src="https://i.loli.net/2021/01/27/yJX7I9mNDq1OR8s.png" alt="" loading="lazy"><br>
 <img src="https://i.loli.net/2021/01/27/3AsDFz1w2VoN6Gy.png" alt="" loading="lazy"><br>
 <img src="https://i.loli.net/2021/01/27/21csUIxn8ePlLWC.png" alt="" loading="lazy"></p>
+<h1 id="radio">Radio</h1>
+<h2 id="くにまるジャパン極">くにまるジャパン極</h2>
+<h3 id="2021-01-27">2021-01-27</h3>
+<p><img src="https://i.loli.net/2021/01/27/Y7ta1GpB48NdF6m.jpg" alt="" loading="lazy"><br>
+<img src="https://i.loli.net/2021/01/27/atdW2DCqiZwJYRo.jpg" alt="" loading="lazy"></p>
 <h1 id="magazine">MAGAZINE</h1>
+<h2 id="婦人公論">婦人公論</h2>
+<h3 id="2021年1月26日号">2021年1月26日号</h3>
+<figure data-type="image" tabindex="2"><img src="https://i.loli.net/2021/01/27/9xsAKQpckUZXy8N.jpg" alt="" loading="lazy"></figure>
 <h2 id="サンデー毎日">サンデー毎日</h2>
 <h3 id="2021年1月24日号">2021年1月24日号</h3>
-<figure data-type="image" tabindex="1"><img src="https://i.loli.net/2021/01/27/PjnqzJWNvDAus2K.jpg" alt="" loading="lazy"></figure>
+<figure data-type="image" tabindex="3"><img src="https://i.loli.net/2021/01/27/PjnqzJWNvDAus2K.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
     <entry>
