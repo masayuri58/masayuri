@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://masayuri58.github.io/masayuri/</id>
     <title>同期の桜</title>
-    <updated>2021-03-10T05:21:12.768Z</updated>
+    <updated>2021-03-10T05:24:40.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://masayuri58.github.io/masayuri/"/>
     <link rel="self" href="https://masayuri58.github.io/masayuri/atom.xml"/>
@@ -66,8 +66,11 @@
 2021-01-27<br>
 :Update sayuri-2021<br>
 2021-02-18<br>
-:Update sayuri-2021, sayuri-enka-no-hanamichi</p>
+:Update sayuri-2021, sayuri-enka-no-hanamichi<br>
+2021-03-10<br>
+:Update magazine-yuyu-202104</p>
 <p>P.S.<br>
+个人运营 缓慢更新<br>
 本站利用的是github服务器以及外链图床，图片加载较慢请耐心等待。<br>
 招募为爱发电的志愿者，会打Markdown就行。</p>
 ]]></content>
