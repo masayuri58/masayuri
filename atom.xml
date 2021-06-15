@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://masayuri58.github.io/masayuri/</id>
     <title>同期の桜</title>
-    <updated>2021-03-28T16:02:58.875Z</updated>
+    <updated>2021-06-15T15:12:06.400Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://masayuri58.github.io/masayuri/"/>
     <link rel="self" href="https://masayuri58.github.io/masayuri/atom.xml"/>
@@ -11,6 +11,18 @@
     <logo>https://masayuri58.github.io/masayuri/images/avatar.png</logo>
     <icon>https://masayuri58.github.io/masayuri/favicon.ico</icon>
     <rights>All rights reserved 2021, 同期の桜</rights>
+    <entry>
+        <title type="html"><![CDATA[【关于本站】]]></title>
+        <id>https://masayuri58.github.io/masayuri/post/guan-yu-ben-zhan/</id>
+        <link href="https://masayuri58.github.io/masayuri/post/guan-yu-ben-zhan/">
+        </link>
+        <updated>2021-06-15T15:09:18.000Z</updated>
+        <content type="html"><![CDATA[<p>许久没有更新，也不知道还有没有人记得这个网站，这个网站还是在运营中的。<br>
+主要是只有我一个人，手头上的东西很多，写网页博客很麻烦，基本都到本地管理了。<br>
+所以如果有人愿意整理石川小百合/森昌子的东西，非常欢迎联系我。<br>
+我可以把我能分享的资源尽可能地分享给愿意帮我一起整理的人。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MAGAZINE]ゆうゆう 2021年4月号]]></title>
         <id>https://masayuri58.github.io/masayuri/post/magazine-yuyu-202104/</id>
@@ -2624,22 +2636,6 @@ Pics without watermark are from the Internet.</p>
 <img src="https://bs-tvtokyo.imgix.net/txcms/media/pg/gallery/L/d9/26/5aeff2f6fa26e3cf0e54bd4c6243.jpg?auto=format%2Ccompress&amp;" alt="" loading="lazy"><br>
 <img src="https://bs-tvtokyo.imgix.net/txcms/media/pg/gallery/L/36/29/c2d60869445af9c18c0acc5094f4.jpg?auto=format%2Ccompress&amp;" alt="" loading="lazy"><br>
 <img src="https://bs-tvtokyo.imgix.net/txcms/media/pg/gallery/L/4e/3b/6326f6414210432e63b7c7c36796.jpg?auto=format%2Ccompress&amp;" alt="" loading="lazy"></p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Welcome to 同期の桜]]></title>
-        <id>https://masayuri58.github.io/masayuri/post/welcome-to-masayuri/</id>
-        <link href="https://masayuri58.github.io/masayuri/post/welcome-to-masayuri/">
-        </link>
-        <updated>2021-01-25T03:46:12.000Z</updated>
-        <content type="html"><![CDATA[<p>This is a fan-made snapshot website for the Japanese singers, Sayuri Ishikawa and Masako Mori.<br>
-The website is under construction and the contents are being filled.<br>
-If you have any question, please contact me.<br>
-If you have anything about Sayuri or Masako to share, please contact me.</p>
-<p>Yasu.<br>
-Email:masayuri@163.com<br>
-汤总今天复出了吗@weibo<br>
-安ヤスYasu@bilibili</p>
 ]]></content>
     </entry>
 </feed>
